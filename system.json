@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "staging.clearblade.com:1883",
+    "name": "TestMateusSystem",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "f0c5a5a00b84fb9ac89bd7f397ff01",
+    "system_secret": "F0C5A5A00BE889EDE6EAA1A4FD34"
+}
