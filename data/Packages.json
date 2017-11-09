@@ -1,0 +1,79 @@
+{
+    "app_id": "f0c5a5a00b84fb9ac89bd7f397ff01",
+    "collection_id": "e4c6a5a00bece6b4bafc93f0e135",
+    "items": [],
+    "name": "Packages",
+    "permissions": {},
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "current_version",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "created_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "updated_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "total_installs_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "total_installs_past_week_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "tags",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "license_type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "content_asset_types",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "image_path",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "github_url",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "owner_user_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
