@@ -1,0 +1,18 @@
+{
+    "author": {
+        "email": "mribeiro@ztech.io"
+    },
+    "clouds": [],
+    "description": "This is a test",
+    "domains": [],
+    "gateways": [],
+    "image_url": "",
+    "keywords": [],
+    "license": "MIT",
+    "name": "TestMateusSystem",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0"
+}
