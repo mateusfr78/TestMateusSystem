@@ -3,16 +3,16 @@
         "email": "mribeiro@ztech.io"
     },
     "clouds": [],
-    "description": "This is a test",
+    "description": "",
     "domains": [],
     "gateways": [],
     "image_url": "",
     "keywords": [],
-    "license": "MIT",
-    "name": "TestMateusSystem",
+    "license": "",
+    "name": "",
     "private": false,
     "prog_lang": [],
     "protocols": [],
     "things": [],
-    "version": "1.0"
+    "version": ""
 }
